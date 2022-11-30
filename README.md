@@ -1,2 +1,2 @@
-# -lkwebsayfas-KODLUYORUZ
+# -ilkwebsayfasi-KODLUYORUZ
 İlk web sayfası çalışmam.
